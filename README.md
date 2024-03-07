@@ -1,5 +1,5 @@
 # UTM | Apple Silicone | Linux Virtualization
-<h1>Laura Shupe  | SOC Analysts </h1>
+<h1>Laura Shupe  | SOC Analyst </h1>
 </h1> Group 17: Script Kitties</h1>
 <h1>  Comprehensive Guide: <br />
 Setting up Linux Virtual Machines using <br />
